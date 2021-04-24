@@ -18,3 +18,9 @@ Besset_Delta_Check.mlx               %Checks original change rates against Besse
 
 EE script location for 44 deltas: https://code.earthengine.google.com/1c074d96779371d7bf20922916ca22f9
 Generates EE_44polys_change.csv that is used in Randomdeltas_vs_Original_Stats.m script
+--------
+
+UPDATE:
+New files have been uploaded to verify Max100 deltas and reproduce figures from rebuttal 2 adressed to Nienhuis et al. 2020 paper
+Land change for Max100 based on our buffers can be retrieved from:
+https://code.earthengine.google.com/1fae5512b5ab41c6902e58d393ed7a05
