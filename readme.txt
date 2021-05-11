@@ -8,8 +8,9 @@ UPDATE - version 2:
 New files have been uploaded to verify Max100 deltas and reproduce figures from rebuttal 2 adressed to Nienhuis et al. 2020 paper
 Land change for Max100 based on our buffers can be retrieved from:
 https://code.earthengine.google.com/1fae5512b5ab41c6902e58d393ed7a05
+Or Areas_Max100_newdata.rar, EE_Max100Big_polys_change.csv can be used directly.
 
-All files for the version 2 of our comment have _Rebuttal2 at the end of the file names.
+All files for reproducing figures in the version 2 of our comment have _Rebuttal2 at the end of the file names.
 
 
 Version 1
