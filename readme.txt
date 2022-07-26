@@ -11,7 +11,7 @@ https://code.earthengine.google.com/1fae5512b5ab41c6902e58d393ed7a05
 Or Areas_Max100_newdata.rar, EE_Max100Big_polys_change.csv can be used directly.
 
 All files for reproducing figures in the version 2 of our comment have _Rebuttal2 at the end of the file names.
-
+Fig3Check(extendedFig1aii).mlx - describes lates plot in Extended Fig1aii
 
 Version 1
 Files:
